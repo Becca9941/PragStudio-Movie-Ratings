@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="960b4633-dc0c-49e6-b986-8ca33f44cfc8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/flix.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flix.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/movies/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/movies/index.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,7 @@
       <updated>1670124379913</updated>
       <workItem from="1670124381268" duration="9000" />
       <workItem from="1670124421018" duration="1265000" />
-      <workItem from="1670180582364" duration="38000" />
+      <workItem from="1670180582364" duration="784000" />
     </task>
     <servers />
   </component>
