@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="960b4633-dc0c-49e6-b986-8ca33f44cfc8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/helpers/movies_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/helpers/movies_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/seeds.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tasks/movies.rake" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
       <workItem from="1670124381268" duration="9000" />
       <workItem from="1670124421018" duration="1265000" />
       <workItem from="1670180582364" duration="1253000" />
-      <workItem from="1670183807286" duration="2233000" />
+      <workItem from="1670183807286" duration="3111000" />
     </task>
     <servers />
   </component>
