@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Flix</title>
+    <title>Movies</title>
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
@@ -11,6 +11,16 @@
   </head>
 
   <body>
-    <%= yield %>
+    <header>
+      <h1>Movies</h1>
+    <header>
+
+    <main class="content">
+      <%= yield %>
+    </main>
+
+    <footer>
+      <p>Made by Becca Williams in 2023 following the Rails 7 course by <a href="https://pragmaticstudio.com">Pragmatic Studio</a>.</p>
+    </footer>
   </body>
 </html>
